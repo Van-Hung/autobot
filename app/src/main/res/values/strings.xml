@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">autobot</string>
+    <string name="app_name">TabLayout</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
 </resources>
